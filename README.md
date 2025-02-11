@@ -1,4 +1,4 @@
-![Pato GIF - Pato - Discover   Share GIFs](https://github.com/user-attachments/assets/6e5315d8-e942-4f29-9dfb-f5e6281f6082)![Pato GIF - Pato - Discover   Share GIFs](https://github.com/user-attachments/assets/6e5315d8-e942-4f29-9dfb-f5e6281f6082)![Pato GIF - Pato - Discover   Share GIFs](https://github.com/user-attachments/assets/9beafcc3-3272-4510-b2ef-6e2fcecda8e7)![Pato GIF - Pato - Discover   Share GIFs](https://github.com/user-attachments/assets/9beafcc3-3272-4510-b2ef-6e2fcecda8e7)## 😇/😈 ··· Audrija
+## 😇/😈 ··· Audrija
 
 **`Bugged Designer(Creator/Writer/Developer)`**
 
