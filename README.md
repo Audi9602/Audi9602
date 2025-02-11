@@ -1,4 +1,10 @@
-## Hi there 👋
+![Pato GIF - Pato - Discover   Share GIFs](https://github.com/user-attachments/assets/6e5315d8-e942-4f29-9dfb-f5e6281f6082)![Pato GIF - Pato - Discover   Share GIFs](https://github.com/user-attachments/assets/6e5315d8-e942-4f29-9dfb-f5e6281f6082)![Pato GIF - Pato - Discover   Share GIFs](https://github.com/user-attachments/assets/9beafcc3-3272-4510-b2ef-6e2fcecda8e7)![Pato GIF - Pato - Discover   Share GIFs](https://github.com/user-attachments/assets/9beafcc3-3272-4510-b2ef-6e2fcecda8e7)## 😇/😈 ··· Audrija
+
+**`Bugged Designer(Creator/Writer/Developer)`**
+
+I am a Computer Science and Engineering student specializing in Health Informatics _(BTECH | VIT Bhopal | 2021-25)_. I have lots of tricks up my sleeve. I am a front end web developer and content creator/writer. Recently I am more interested to build games using either plain JavaScript (DOM manipulation) or JS libraries (Kaboom, etc). I try to learn a thing or two from the web to polish my skills and prepare various projects.
+
+
 
 <!--
 **Audi9602/Audi9602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
