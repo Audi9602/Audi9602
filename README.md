@@ -26,6 +26,9 @@ I am a Computer Science and Engineering student specializing in Health Informati
    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=audi9602&theme=catppuccin_mocha">
 </a>
 
+
+
+
 <!--Snake Animation-->
 <!--LINK: https://github.com/tobiasmeyhoefer/tobiasmeyhoefer/tree/main-->
 <picture>
@@ -33,17 +36,4 @@ I am a Computer Science and Engineering student specializing in Health Informati
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/audi9602/audi9602/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/audi9602/audi9602/output/github-snake.svg" />
 </picture>
-<!--
-**Audi9602/Audi9602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
