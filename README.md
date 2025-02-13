@@ -26,7 +26,12 @@ I am a Computer Science and Engineering student specializing in Health Informati
    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=audi9602&theme=catppuccin_mocha">
 </a>
 
-
+<!--Snake Animation-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 <!--
 **Audi9602/Audi9602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
