@@ -1,11 +1,11 @@
 <!--Banner-->
 <img src="banner-git.png" alt="banner" width="100%"/>
 
-## 😇/😈 ··· Audi@the19
+## 😇/😈 ··· Addie@the19
 
 **`Bugged Designer(Creator/Writer/Developer)`**
 <!--Intro-->
-I am a Computer Science and Engineering student specializing in Health Informatics. I have lots of tricks up my sleeve. I am a front end web developer and content creator/writer. Recently I am more interested to build games using either plain JavaScript (DOM manipulation) or JS libraries (Kaboom, etc). I try to learn a thing or two from the web to polish my skills and prepare various projects.
+I am a Computer Science and Engineering graduate student specializing in Health Informatics. I have lots of tricks up my sleeve. I am a front end web developer and content creator/writer. Recently I am more interested to build games using either plain JavaScript (DOM manipulation) or JS libraries (Kaboom, etc). I try to learn a thing or two from the web to polish my skills and prepare various projects. But I'm up for anything challenging - graphic designs (for my ebooks mainly) cybersecurity, AI/ML.. I mean everything! 
 
 <a href=""><img src="https://readme-typing-svg.demolab.com?font=Average+Sans&size=14&pause=1000&color=8A01F7&width=435&lines=BTECH+%7C+VIT+BHOPAL+%7C+2021-25" alt="Typing SVG" /></a>
 
